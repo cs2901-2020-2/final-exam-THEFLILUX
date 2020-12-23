@@ -1,4 +1,7 @@
 public class JuegoFacade {
+    
+    static final Logger logger = Logger.getLogger(JuegoFacade.class.getName());
+    
     Tablero tablero;
     Pieza pieza;
 
@@ -59,6 +62,14 @@ public class JuegoFacade {
                 for (int j = y; j<y+3; j++){
                     tablero.table[i][j]=pieza.pieza_h()[i-x][j-y];
                 }
+            }
+        }
+    }
+    
+    public void print(){
+        for (int i =0; i<9; i++){
+            for (int j =0; j<9; j++){
+                logger.info(String.valueOf(tablero.table[i][j]));
             }
         }
     }
