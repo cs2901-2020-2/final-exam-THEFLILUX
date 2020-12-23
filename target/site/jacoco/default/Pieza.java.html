@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Pieza.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">final-exam-THEFLILUX</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">Pieza.java</span></div><h1>Pieza.java</h1><pre class="source lang-java linenums">public class Pieza {
+<span class="fc" id="L2">    char[] a = new char[8];</span>
+
+<span class="fc" id="L4">    public Pieza(){</span>
+<span class="fc" id="L5">        a[0]='a';</span>
+<span class="fc" id="L6">        a[1]='b';</span>
+<span class="fc" id="L7">        a[2]='c';</span>
+<span class="fc" id="L8">        a[3]='d';</span>
+<span class="fc" id="L9">        a[4]='e';</span>
+<span class="fc" id="L10">        a[5]='f';</span>
+<span class="fc" id="L11">        a[6]='g';</span>
+<span class="fc" id="L12">        a[7]='h';</span>
+<span class="fc" id="L13">    }</span>
+
+    public int[][] pieza_a(){
+<span class="fc" id="L16">        int[][] bloque_a = new int[3][3];</span>
+<span class="fc bfc" id="L17" title="All 2 branches covered.">        for (int i =0; i&lt;3; i++){</span>
+<span class="fc bfc" id="L18" title="All 2 branches covered.">            for (int j =0; j&lt;3; j++){</span>
+<span class="pc bpc" id="L19" title="1 of 20 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==1 &amp;&amp; j==0) || (i==2 &amp;&amp; j==0) || (i==2 &amp;&amp; j==1) || (i==2 &amp;&amp; j==2)){</span>
+<span class="fc" id="L20">                    bloque_a[i][j]=1;</span>
+                } else{
+<span class="fc" id="L22">                    bloque_a[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="fc" id="L27">        return bloque_a;</span>
+    }
+
+    public int[][] pieza_b(){
+<span class="nc" id="L31">        int[][] bloque_b = new int[3][3];</span>
+<span class="nc bnc" id="L32" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L33" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L34" title="All 20 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==0 &amp;&amp; j==1) || (i==0 &amp;&amp; j==2) || (i==1 &amp;&amp; j==2) || (i==2 &amp;&amp; j==2)){</span>
+<span class="nc" id="L35">                    bloque_b[i][j]=1;</span>
+                } else{
+<span class="nc" id="L37">                    bloque_b[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L42">        return bloque_b;</span>
+    }
+
+    public int[][] pieza_c(){
+<span class="nc" id="L46">        int[][] bloque_c = new int[3][3];</span>
+<span class="nc bnc" id="L47" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L48" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L49" title="All 12 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==0 &amp;&amp; j==1) || (i==0 &amp;&amp; j==2)){</span>
+<span class="nc" id="L50">                    bloque_c[i][j]=1;</span>
+                } else{
+<span class="nc" id="L52">                    bloque_c[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L57">        return bloque_c;</span>
+    }
+
+    public int[][] pieza_d(){
+<span class="nc" id="L61">        int[][] bloque_d = new int[3][3];</span>
+<span class="nc bnc" id="L62" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L63" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L64" title="All 12 branches missed.">                if((i==0 &amp;&amp; j==1) || (i==1 &amp;&amp; j==1) || (i==2 &amp;&amp; j==1)){</span>
+<span class="nc" id="L65">                    bloque_d[i][j]=1;</span>
+                } else{
+<span class="nc" id="L67">                    bloque_d[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L72">        return bloque_d;</span>
+    }
+
+    public int[][] pieza_e(){
+<span class="nc" id="L76">        int[][] bloque_e = new int[3][3];</span>
+<span class="nc bnc" id="L77" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L78" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L79" title="All 20 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==1 &amp;&amp; j==1) || (i==2 &amp;&amp; j==1) || (i==2 &amp;&amp; j==0) || (i==2 &amp;&amp; j==2)){</span>
+<span class="nc" id="L80">                    bloque_e[i][j]=1;</span>
+                } else{
+<span class="nc" id="L82">                    bloque_e[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L87">        return bloque_e;</span>
+    }
+
+    public int[][] pieza_f(){
+<span class="nc" id="L91">        int[][] bloque_f = new int[3][3];</span>
+<span class="nc bnc" id="L92" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L93" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L94" title="All 20 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==0 &amp;&amp; j==1) || (i==0 &amp;&amp; j==2) || (i==1 &amp;&amp; j==1) || (i==2 &amp;&amp; j==1)){</span>
+<span class="nc" id="L95">                    bloque_f[i][j]=1;</span>
+                } else{
+<span class="nc" id="L97">                    bloque_f[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L102">        return bloque_f;</span>
+    }
+
+    public int[][] pieza_g(){
+<span class="nc" id="L106">        int[][] bloque_g = new int[3][3];</span>
+<span class="nc bnc" id="L107" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L108" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L109" title="All 16 branches missed.">                if((i==0 &amp;&amp; j==0) || (i==1 &amp;&amp; j==0) || (i==2 &amp;&amp; j==0) || (i==2 &amp;&amp; j==1)){</span>
+<span class="nc" id="L110">                    bloque_g[i][j]=1;</span>
+                } else{
+<span class="nc" id="L112">                    bloque_g[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L117">        return bloque_g;</span>
+    }
+
+    public int[][] pieza_h(){
+<span class="nc" id="L121">        int[][] bloque_h = new int[3][3];</span>
+<span class="nc bnc" id="L122" title="All 2 branches missed.">        for (int i =0; i&lt;3; i++){</span>
+<span class="nc bnc" id="L123" title="All 2 branches missed.">            for (int j =0; j&lt;3; j++){</span>
+<span class="nc bnc" id="L124" title="All 16 branches missed.">                if((i==0 &amp;&amp; j==1) || (i==1 &amp;&amp; j==1) || (i==2 &amp;&amp; j==1) || (i==0 &amp;&amp; j==2)){</span>
+<span class="nc" id="L125">                    bloque_h[i][j]=1;</span>
+                } else{
+<span class="nc" id="L127">                    bloque_h[i][j]=0;</span>
+                }
+            }
+        }
+
+<span class="nc" id="L132">        return bloque_h;</span>
+    }
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

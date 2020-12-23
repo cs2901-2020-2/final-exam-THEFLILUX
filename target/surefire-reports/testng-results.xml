@@ -1,16 +1,336 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="81" passed="81" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-23T10:32:14 COT" name="Surefire suite" finished-at="2020-12-23T10:32:14 COT" duration-ms="98">
+  <suite started-at="2020-12-23T11:54:56 COT" name="Surefire suite" finished-at="2020-12-23T11:54:56 COT" duration-ms="142">
     <groups>
     </groups>
-    <test started-at="2020-12-23T10:32:14 COT" name="Surefire test" finished-at="2020-12-23T10:32:14 COT" duration-ms="98">
+    <test started-at="2020-12-23T11:54:56 COT" name="Surefire test" finished-at="2020-12-23T11:54:56 COT" duration-ms="142">
       <class name="TestFacadePatternShapes">
-        <test-method signature="Test0()[pri:0, instance:TestFacadePatternShapes@20576557]" started-at="2020-12-23T10:32:14 COT" name="Test0" finished-at="2020-12-23T10:32:14 COT" duration-ms="55" status="PASS">
+        <test-method signature="Test0()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="Test0" finished-at="2020-12-23T11:54:56 COT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test0 -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
+        <test-method signature="testTime()[pri:0, instance:TestFacadePatternShapes@119c745c]" started-at="2020-12-23T11:54:56 COT" name="testTime" finished-at="2020-12-23T11:54:56 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTime -->
       </class> <!-- TestFacadePatternShapes -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->

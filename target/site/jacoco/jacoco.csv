@@ -1,5 +1,10 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
 final-exam-THEFLILUX,default,FlightBooking,0,12,0,0,0,4,0,3,0,3
+final-exam-THEFLILUX,default,Tablero,0,29,0,4,0,6,0,3,0,1
+final-exam-THEFLILUX,default,JuegoDemo,38,0,2,0,11,0,4,0,3,0
 final-exam-THEFLILUX,default,CabBooking,0,12,0,0,0,4,0,3,0,3
+final-exam-THEFLILUX,default,Pieza,383,106,145,23,49,18,80,13,7,2
 final-exam-THEFLILUX,default,HotelBooking,0,12,0,0,0,4,0,3,0,3
+final-exam-THEFLILUX,default,JuegoFacade,243,31,45,3,30,8,24,2,0,2
+final-exam-THEFLILUX,default,BienvenidaJuego,0,11,0,0,0,4,0,2,0,2
 final-exam-THEFLILUX,default,HolidayBookingFacade,0,28,0,0,0,9,0,2,0,2

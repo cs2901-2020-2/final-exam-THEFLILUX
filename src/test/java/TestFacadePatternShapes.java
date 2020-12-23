@@ -7,7 +7,7 @@ public class TestFacadePatternShapes {
     public void Test0(){
         JuegoFacade juegoFacade = new JuegoFacade();
 
-        juegoFacade.elegirPos(1,3,'a');
+        //juegoFacade.elegirPos(1,3,'a');
     }
 
     @Test(invocationCount = 80, threadPoolSize = 80)

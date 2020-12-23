@@ -3,5 +3,5 @@ projectKey=cs2901-2020-2_final-exam-THEFLILUX
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.15878
 dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2020-2_final-exam-THEFLILUX
-ceTaskId=AXaQO8XsVpLyXPhLYtml
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaQO8XsVpLyXPhLYtml
+ceTaskId=AXaQhrL3WyIP725n0gJE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaQhrL3WyIP725n0gJE
