@@ -16,6 +16,15 @@ public class TestFacadePatternShapes {
         juegoFacade.elegirPos(6,1,'g');
         juegoFacade.elegirPos(5,1,'h');
     }
+    
+    @Test
+    public void Test1(){
+        JuegoFacade juegoFacade = new JuegoFacade();
+
+        juegoFacade.elegirPos(5,1,'a');
+
+        juegoFacade.print();
+    }
 
     @Test(invocationCount = 80, threadPoolSize = 80)
     public void testTime() throws Exception {
