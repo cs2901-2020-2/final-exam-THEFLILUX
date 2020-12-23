@@ -21,6 +21,7 @@ public class JuegoDemo {
             juegoFacade.elegirPos(5,0,'f');
             juegoFacade.elegirPos(6,1,'g');
             juegoFacade.elegirPos(5,1,'h');
+            juegoFacade.print();
         } else{
             logger.info("Vuelve pronto!");
             System.exit(1);
